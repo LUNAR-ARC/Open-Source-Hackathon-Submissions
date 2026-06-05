@@ -3,49 +3,49 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Neer Chaudhary
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+LUNAR-ARC
 
 **Team Name:**  
-<!-- Write your team name -->
+Neer Chaudhary
 
 **College/University:**  
-<!-- Write your college/university name -->
+Chandigarh Engineering College
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+LegalAId
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+An AI-powered legal assistant that leverages public APIs to summarize complex legal documents and dynamically educate users about their rights across various situational contexts.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Python and HTML
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/LUNAR-ARC/LegalAId
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://drive.google.com/drive/folders/16cBY1FvxOv3MergIxF42DWGl7jHuC3ol?usp=drive_link
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+https://drive.google.com/drive/folders/16cBY1FvxOv3MergIxF42DWGl7jHuC3ol?usp=drive_link
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [YES] My project is public on GitHub
+- [YES] My repository has a proper README.md
+- [YES] I have added setup/installation instructions
+- [NO] I have added screenshots/demo where possible
+- [NO] I have added a license file
+- [YES] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,23 +53,23 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [YES] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [YES] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [YES] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [YES] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [YES] I have generated my ID card from https://oshack.xyz
+- [-] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
